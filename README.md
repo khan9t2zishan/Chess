@@ -1,4 +1,6 @@
 ## Chess
+<img width="518" height="517" alt="image" src="https://github.com/user-attachments/assets/ac1e5eee-5317-4950-8a10-caab1a200822" />
+
 
 Building a platform where people can
 
